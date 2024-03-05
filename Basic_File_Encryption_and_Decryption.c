@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
+#include <string.h> 
 
 #define MAX_FILE_NAME 100
 #define MAX_BUFFER_SIZE 1000
