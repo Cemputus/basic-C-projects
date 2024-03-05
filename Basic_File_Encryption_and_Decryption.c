@@ -9,7 +9,7 @@
 // Function to encrypt a file
 void encryptFile(const char *inputFileName, const char *outputFileName) {
     FILE *inputFile, *outputFile;
-    char ch;
+    char ch; 
 
     // Open the input file for reading
     inputFile = fopen(inputFileName, "r");
